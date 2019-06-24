@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459203109 source:c:\users\ersinkalafat\desktop\bilgisayar mühendisliði\c çalýþmalarý\prolab2proje1\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
